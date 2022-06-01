@@ -10,9 +10,12 @@ author: ctanxx
 
 Piotr "avis" Świerzyna (born November 22, 1996) is a retired Polish professional Counter-Strike: Global Offensive player.
 
-| **Name** | **Piotr "avis" Świerzyna** |
-| -------- | ---------------------- |
-| **Name** | Piotr "avis" Świerzyna |
-| **Name** | Piotr "avis" Świerzyna |
-| **Name** | Piotr "avis" Świerzyna |
-
+| **avis Information** | **Details**            |
+| -------------------- | ---------------------- |
+| **Full Name**        | Piotr "avis" Świerzyna |
+| **Born**             | November 22, 1996      |
+| **Nationality**      | Poland                 |
+| **Status**           | Retired                |
+| **Team**             | Piotr "avis" Świerzyna |
+| **Role**             | Rifler (entry fragger) |
+| **Total Winnings**   | $4,007.84              |
