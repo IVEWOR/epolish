@@ -10,12 +10,12 @@ author: ctanxx
 
 Krystian "FAALE" Kubas is a retired Polish professional Counter-Strike: Global Offensive player.
 
-| **FAALE Information** | **Details**          |
+| **FAALE Information** | **Details**         |
 | -------------------- | -------------------- |
 | **Full Name**        | Maciej "F1KU" Miklas |
-| **Born**             | None         |
+| **Born**             | None                 |
 | **Nationality**      | Poland               |
 | **Status**           | Retired              |
-| **Team**             | None                   |
-| **Role**             | None               |
+| **Team**             | None                 |
+| **Role**             | None                 |
 | **Total Winnings**   | $2,901               |
