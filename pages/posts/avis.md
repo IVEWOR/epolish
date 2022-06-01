@@ -16,6 +16,6 @@ Piotr "avis" Świerzyna (born November 22, 1996) is a retired Polish professiona
 | **Born**             | November 22, 1996      |
 | **Nationality**      | Poland                 |
 | **Status**           | Retired                |
-| **Team**             | Piotr "avis" Świerzyna |
+| **Team**             | None |
 | **Role**             | Rifler (entry fragger) |
 | **Total Winnings**   | $4,007.84              |
