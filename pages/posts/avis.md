@@ -10,7 +10,8 @@ author: ctanxx
 
 Piotr "avis" Świerzyna (born November 22, 1996) is a retired Polish professional Counter-Strike: Global Offensive player.
 
-<table style="border-collapse: collapse; width: 100%; height: 90px;" border="1">
+
+_"<table style="border-collapse: collapse; width: 100%; height: 90px;" border="1">
 <tbody>
 <tr style="height: 18px;">
 <td style="width: 50%; height: 18px;">dsadasd</td>
@@ -33,4 +34,4 @@ Piotr "avis" Świerzyna (born November 22, 1996) is a retired Polish professiona
 <td style="width: 50%; height: 18px;">sdasdasa</td>
 </tr>
 </tbody>
-</table>
+</table>"_
