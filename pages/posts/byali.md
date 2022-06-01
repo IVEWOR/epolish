@@ -13,7 +13,7 @@ Paweł "byali" Bieliński (born April 30, 1994) is a Polish professional Counter
 | **byali Information** | **Details**            |
 | -------------------- | ----------------------- |
 | **Full Name**        | Paweł "byali" Bieliński |
-| **Born**             | born April 30, 1994     |
+| **Born**             | April 30, 1994          |
 | **Nationality**      | Poland                  |
 | **Status**           | Active                  |
 | **Team**             | Ungentium               |
