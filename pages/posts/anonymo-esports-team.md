@@ -22,6 +22,7 @@ Anonymo Esports is a Polish esports organization founded in January 2021.
 | **Total Winnings**              | $50,510.99        |
 | **Founded in**                  | 2021-01-11        |
 
+Anonymo Esports Team Members
 
  **ID**            | **Members**       |
 | --------------- | ------------------ |
