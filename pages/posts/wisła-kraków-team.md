@@ -6,7 +6,7 @@ tag: polish-teams, csgo-teams
 author: ctanxx
 ---
 
-# PACT
+# Wisła Kraków
 
 Wisła Kraków is a Polish esports organization founded in 2019. They are associated with the football club Wisła Kraków Spółka Akcyjna.
 
